@@ -19,3 +19,4 @@ to see what changes have not yet been staged for commitment
 # 9 - What does the command 'git add .' do?
 it stages the updated files with any changes you've made, and makes them ready to commit
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+git push origin main
